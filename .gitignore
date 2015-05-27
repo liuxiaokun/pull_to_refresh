@@ -1,7 +1,7 @@
 *.class
 
 /bin
-.classpth
+.classpath
 .project
 
 # Package Files #
