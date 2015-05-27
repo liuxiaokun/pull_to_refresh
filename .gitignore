@@ -1,6 +1,8 @@
 *.class
 
 /bin
+.classpth
+.project
 
 # Package Files #
 *.jar
